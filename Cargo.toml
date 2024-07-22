@@ -1,0 +1,8 @@
+[package]
+name = "print-license"
+version = "1.0.0"
+edition = "2021"
+description = "Print license texts to stdout"
+readme = "README.md"
+repository = "https://github.com/Apfelfrosch/print-license"
+license = "MIT OR Apache-2.0"
